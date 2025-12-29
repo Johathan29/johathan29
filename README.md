@@ -9,7 +9,7 @@ Soy desarrollador Full Stack con más de siete años de experiencia en el diseñ
 - Git, GitHub
 - Node.js, PHP, MySQL y SQL Server
 
-## 🚀en que he trabajado
+## 🚀 En que he trabajado
 - Cuadros de mando con visualización de datos.
 - Autenticacion de usuarios, roles y administración de perfiles
 - Interfaces UI/UX modernas
