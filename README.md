@@ -1,4 +1,4 @@
-# Hi, I'm Johathan 👋
+# soy Johathan Rosario
 
 Soy desarrollador Full Stack con más de siete años de experiencia en el diseño, desarrollo y mantenimiento de soluciones web integrales para entornos institucionales y corporativos. Me especializo en la creación de plataformas escalables, seguras y de alto rendimiento que combinan un frontend moderno con un backend robusto..
 
