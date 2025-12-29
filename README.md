@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Johathan 👋
 
-<!--
-**Johathan29/johathan29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador Full Stack con más de siete años de experiencia en el diseño, desarrollo y mantenimiento de soluciones web integrales para entornos institucionales y corporativos. Me especializo en la creación de plataformas escalables, seguras y de alto rendimiento que combinan un frontend moderno con un backend robusto..
 
-Here are some ideas to get you started:
+## 🛠 Conjunto de tecnologías
+- Vue 3, React, TypeScript
+- Tailwind CSS, Flowbite
+- Chart.js, Firebase
+- Git, GitHub
+- Node.js, PHP, MySQL y SQL Server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀en que he trabajado
+- Cuadros de mando con visualización de datos.
+- Autenticacion de usuarios, roles y administración de perfiles
+- Interfaces UI/UX modernas
+- Mejoras de rendimiento y accesibilidad.
+
+## 📫 Contact
+- Portfolio: 
+- LinkedIn: https://www.linkedin.com/in/johathan-rosario/
