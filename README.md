@@ -5,7 +5,7 @@ Soy desarrollador Full Stack con más de siete años de experiencia en el diseñ
 ## 🛠 Conjunto de tecnologías
 - Vue 3, React, TypeScript
 - Tailwind CSS, Flowbite
-- Chart.js, Firebase
+- Chart.js, Firebase, Supabase
 - Git, GitHub
 - Node.js, PHP, MySQL y SQL Server
 
